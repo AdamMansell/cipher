@@ -1,0 +1,35 @@
+h1 {
+  color: Red;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: black 2px 2px 2px;
+}
+
+#original {
+  float: left;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  border: red 2px solid;
+  margin: 5px;
+  box-shadow: black 10px 8px 8px;
+}
+
+#encoded {
+  float: left;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  border: red 2px solid;
+  margin: 5px;
+  box-shadow: black 10px 8px 8px;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
